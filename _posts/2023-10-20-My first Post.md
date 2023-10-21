@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Hello World!"
 date: 2023-10-19
 ---
 Welcome to the beginning of your journey with "Long Answer"!
